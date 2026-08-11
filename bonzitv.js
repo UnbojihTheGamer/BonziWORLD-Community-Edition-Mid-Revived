@@ -592,7 +592,9 @@ let videoIds25MinutesofMSAgent = [
   youtube_url + "rjcJVX2fNFA", // MS Survivor
   youtube_url + "5hzRfTXSiKA",
   youtube_url + "xc6N_0YT2r8",
-  youtube_url + "lLpp8VPUUfk"
+  youtube_url + "lLpp8VPUUfk",
+  youtube_url + "oFjDBu19wNM", // A Conversation with Another Universe
+  youtube_url + "vAuI_8R6p9Q"
 ];
 
 // export variables
