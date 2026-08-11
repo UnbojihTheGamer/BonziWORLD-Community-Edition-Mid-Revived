@@ -594,7 +594,23 @@ let videoIds25MinutesofMSAgent = [
   youtube_url + "xc6N_0YT2r8",
   youtube_url + "lLpp8VPUUfk",
   youtube_url + "oFjDBu19wNM", // A Conversation with Another Universe
-  youtube_url + "vAuI_8R6p9Q"
+  youtube_url + "vAuI_8R6p9Q",
+  youtube_url + "Cvt_axiR7S8", // Bobi's Microsoft Agent Desktop Skits
+  youtube_url + "2obCsilcD9c",
+  youtube_url + "f9cmtUnTCYM",
+  youtube_url + "R7511sor4dA",
+  youtube_url + "3SOLs0sN4ec",
+  youtube_url + "m_JMrmB-y6E",
+  youtube_url + "vWZWP09J2q0",
+  youtube_url + "IT0jyzXl8Kc",
+  youtube_url + "0ZBFo5SSxBE",
+  youtube_url + "qIlTshMcg8g",
+  youtube_url + "OCaKEnA1CL8",
+  youtube_url + "tWyRbL3yaCo",
+  youtube_url + "QVZInj1Zcz0",
+  youtube_url + "0esbIifl558",
+  youtube_url + "cLwtktwgF7U",
+  youtube_url + "u3ju1EwXv2I",
 ];
 
 // export variables
