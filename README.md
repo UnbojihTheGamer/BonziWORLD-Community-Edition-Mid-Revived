@@ -18,8 +18,8 @@ https://bonziworld.co
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone https://github.com/Seamusmario/BonziWORLD-Revived-Classic
-cd BonziWORLD-Revived-Classic
+git clone https://github.com/UnbojihTheGamer/BonziWORLD-Community-Edition-Mid-Revived
+cd BonziWORLD-Community-Edition-Mid-Revived
 ```
 
 ### Server
