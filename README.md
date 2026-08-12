@@ -13,8 +13,7 @@ cd BonziWORLD-Community-Edition-Mid-Revived
 ```
 ### Cilent
 ```
-cd bulid
-cd www
+cd bulid/www
 npm install
 grunt src_www
 cd ..
