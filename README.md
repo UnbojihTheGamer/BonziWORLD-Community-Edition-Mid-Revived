@@ -11,7 +11,14 @@ In a terminal/command prompt, navigate to where you'd like BonziWORLD to be plac
 git clone https://github.com/UnbojihTheGamer/BonziWORLD-Community-Edition-Mid-Revived
 cd BonziWORLD-Community-Edition-Mid-Revived
 ```
-
+### Cilent
+```
+cd bulid
+cd www
+npm install
+grunt src_www
+cd ..
+```
 ### Server
 ```
 cd server
