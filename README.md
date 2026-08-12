@@ -1,13 +1,3 @@
-## BonziWORLD Community Edition / BonziWORLD Revived Classic
-
-BonziWORLD Revived Classic (or just BonziWORLD) is a re-release of an older version of a fork of BonziWORLD Revived by mrnotesonic (RIP), originally released in 2019.
-
-## Where can I visit it?
-
-We have a demo.
-
-https://bonziworld.co
-
 ## Dependencies
 - Node.js and npm
 - Ruby
