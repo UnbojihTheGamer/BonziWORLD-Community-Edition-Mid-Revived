@@ -610,7 +610,7 @@ let videoIds25MinutesofMSAgent = [
   youtube_url + "QVZInj1Zcz0",
   youtube_url + "0esbIifl558",
   youtube_url + "cLwtktwgF7U",
-  youtube_url + "u3ju1EwXv2I",
+  youtube_url + "u3ju1EwXv2I"
 ];
 
 // export variables
