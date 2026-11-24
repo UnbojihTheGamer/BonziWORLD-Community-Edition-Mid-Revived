@@ -12,12 +12,7 @@ git clone https://github.com/UnbojihTheGamer/BonziWORLD-Community-Edition-Mid-Re
 cd BonziWORLD-Community-Edition-Mid-Revived
 ```
 ### Cilent
-```
-cd bulid
-npm install
-grunt src_www
-cd ..
-```
+This part is unneeded. The client comes pre-built.
 ### Server
 ```
 cd server
